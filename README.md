@@ -1,4 +1,4 @@
-# 🛍️ Vrinda Store Annual Report 2022 – Power BI Dashboard
+# 🛍️ Vrinda Store Annual Report 2022 – Excel Dashboard
 
 This interactive Power BI dashboard provides a detailed annual performance overview of **Vrinda Store** for the year **2022**, with a focus on **sales trends**, **gender insights**, **regional performance**, and **product categories**.
 
